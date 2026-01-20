@@ -14,6 +14,13 @@ This directory contains comprehensive research on dimension reduction techniques
 |----------|-------------|
 | [00-lesson-for-beginners.md](./00-lesson-for-beginners.md) | **START HERE** - Easy-to-understand lesson with analogies and visuals |
 
+### Critical Analysis & Novel Directions
+
+| Document | Description |
+|----------|-------------|
+| [critiques/README.md](./critiques/README.md) | **Critical review** of the recommended approach |
+| [critiques/04-novel-research-directions.md](./critiques/04-novel-research-directions.md) | **Potential thesis/paper topics** |
+
 ### Technical Deep-Dives
 
 | Document | Description |
